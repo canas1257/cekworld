@@ -1,0 +1,5 @@
+# Abaikan file hasil scanning txt agar tidak menumpuk di repo
+output/*.txt
+!output/.gitkeep
+world_list.txt
+*.log

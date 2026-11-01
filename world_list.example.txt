@@ -1,0 +1,6 @@
+# Contoh format daftar world:
+# 1. Tanpa door ID:
+MYFARMWORLD1
+# 2. Dengan door ID:
+MYFARMWORLD2|DOOR1
+MYFARMWORLD3:DOOR2
